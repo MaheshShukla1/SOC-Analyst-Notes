@@ -24,4 +24,4 @@ Feel free to explore the sections that interest you the most. Each section is st
 Connect with Me 🤝
 If you have any questions or feedback, feel free to reach out or contribute to this repository. Let's learn and grow together in the exciting field of cybersecurity! 🚀
 
-Enjoy your learning journey and stay secure! 🔐✨
+Enjoy your learning journey and stay secure! 🔐✨ ❤️
