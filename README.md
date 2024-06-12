@@ -6,6 +6,8 @@
 
 # [Cyber Threat Intelligence](https://github.com/MaheshShukla1/SOC_NOTES_2024/wiki/Cyber-Threat-intelligence)
 
+# [Network Traffic Analysis](https://github.com/MaheshShukla1/SOC-Security-Notes/wiki/Network-Traffic-Analysis)
+
 # SOC (Security Operations Center) Notes Repository 📚🔐
 * Welcome to my comprehensive SOC (Security Operations Center) notes repository!
 * 🌟 These notes are designed to help you understand the essential components and workflows within a SOC environment, from tip-offs to incident response. Perfect for cybersecurity enthusiasts and professionals looking to enhance their knowledge and skills.
