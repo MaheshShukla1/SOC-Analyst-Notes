@@ -1,14 +1,14 @@
 # Soc-Notes
 
-# [Introduction To SOC](https://github.com/MaheshShukla1/Soc-prep/wiki/Introduction-To-SOC#6-case-study-responding-to-a-phishing-attack)
+## [Introduction To SOC](https://github.com/MaheshShukla1/Soc-prep/wiki/Introduction-To-SOC#6-case-study-responding-to-a-phishing-attack)
 
-# [Cyber Defence Framework](https://github.com/MaheshShukla1/Soc-prep/wiki/Cyber-Defence-Framework)
+## [Cyber Defence Framework](https://github.com/MaheshShukla1/Soc-prep/wiki/Cyber-Defence-Framework)
 
-# [Cyber Threat Intelligence](https://github.com/MaheshShukla1/SOC_NOTES_2024/wiki/Cyber-Threat-intelligence)
+## [Cyber Threat Intelligence](https://github.com/MaheshShukla1/SOC_NOTES_2024/wiki/Cyber-Threat-intelligence)
 
-# [Network Traffic Analysis](https://github.com/MaheshShukla1/SOC-Security-Notes/wiki/Network-Traffic-Analysis)
+## [Network Traffic Analysis](https://github.com/MaheshShukla1/SOC-Security-Notes/wiki/Network-Traffic-Analysis)
 
-# SOC (Security Operations Center) Notes Repository 📚🔐
+## SOC (Security Operations Center) Notes Repository 📚🔐
 
 Welcome to my comprehensive SOC (Security Operations Center) notes repository! 🌟 These notes are meticulously crafted to help you grasp the essential components and workflows within a SOC environment, from initial tip-offs to incident response. Whether you're a cybersecurity enthusiast or a professional, these notes will enhance your knowledge and skills in the field.
 
