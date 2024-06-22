@@ -1,4 +1,4 @@
-# SOC (Security Operations Center) Notes Repository 📚🔐
+# SOC (Security Operations Center) Notes Repository 📚
 
 Welcome to my comprehensive SOC (Security Operations Center) notes repository! 🌟 These notes are meticulously crafted to help you grasp the essential components and workflows within a SOC environment, from initial tip-offs to incident response. Whether you're a cybersecurity enthusiast or a professional, these notes will enhance your knowledge and skills in the field.
 
