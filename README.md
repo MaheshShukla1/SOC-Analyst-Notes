@@ -20,6 +20,7 @@ Welcome to my comprehensive SOC (Security Operations Center) notes repository! �
 
 - **Data Collection & Analysis**: Learn the techniques and tools used for effective monitoring, including log management, SIEM (Security Information and Event Management) systems, and data analytics. 📊
 
+
 - **Alerting & Automation**: Discover how to streamline your SOC operations using automated tools and alerting mechanisms to enhance efficiency and reduce response times. ⚙️
 
 - **Triage & Incident Response**: Step-by-step processes for handling incidents, from identification and containment to eradication and recovery. This section covers best practices and frameworks for incident response. 🚨
