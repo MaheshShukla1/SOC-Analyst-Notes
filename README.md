@@ -32,11 +32,9 @@
 - **People, Processes, and Technology**: Understand the core pillars of a successful SOC, including the roles and responsibilities of SOC personnel, the importance of well-defined processes, and the technology stack required for effective security operations. 🏛️
 
 ## Why These Notes? 🤔
-
 These notes are designed with detailed examples and real-world applications to make learning engaging and practical. Whether you're preparing for a cybersecurity job or looking to refine your SOC skills, you'll find valuable insights here.
 
 ## How to Use 📘
-
 Feel free to explore the sections that interest you the most. Each section is structured to build your understanding progressively. Don't forget to star ⭐ this repository if you find it helpful!
 
 ## Connect with Me 🤝
