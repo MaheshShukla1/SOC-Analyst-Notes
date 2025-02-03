@@ -20,7 +20,6 @@
 
 - **Data Collection & Analysis**: Learn the techniques and tools used for effective monitoring, including log management, SIEM (Security Information and Event Management) systems, and data analytics. 📊
 
-
 - **Alerting & Automation**: Discover how to streamline your SOC operations using automated tools and alerting mechanisms to enhance efficiency and reduce response times. ⚙️
 
 - **Triage & Incident Response**: Step-by-step processes for handling incidents, from identification and containment to eradication and recovery. This section covers best practices and frameworks for incident response. 🚨
@@ -44,6 +43,5 @@ If you have any questions or feedback, feel free to reach out or contribute to t
 ## Community 🌐
 
 Join our [community](https://discord.gg/yJFaZ4UMb2) to engage with fellow cybersecurity enthusiasts and professionals. Share your knowledge, ask questions, and collaborate on projects. By participating, you'll gain access to exclusive content, updates, and support from like-minded individuals passionate about SOC and cybersecurity.
-
 ---
 Enjoy your learning journey and stay secure! 🔐✨ ❤️
