@@ -1,84 +1,76 @@
-# 🛡️ SOC Analyst Notes – Comprehensive Guide to Security Operations Center (SOC) 🚨
+<p align="center">
+  <img src="https://github.com/MaheshShukla1/SOC-Analyst-Notes/blob/main/socbanner.png" alt="SOC Analyst Notes – Complete Security Operations Center Guide, Incident Response, Threat Hunting, SIEM" width="100%">
+</p>
 
-Welcome to the **SOC Analyst Notes Repository**, a structured, beginner-to-advanced guide designed to help you understand the daily operations, tools, workflows, and best practices within a Security Operations Center (SOC).
+# 🛡️ SOC Analyst Notes – Complete Beginner to Advanced SOC Guide 🚨
 
-Whether you're an aspiring **SOC Analyst**, a cybersecurity student, or an industry professional brushing up on fundamentals — this repo is for you.
-
----
-
-## 📘 Contents & Core Modules
-
-### 📌 [1. Introduction to SOC](https://github.com/MaheshShukla1/Soc-prep/wiki/Introduction-To-SOC#6-case-study-responding-to-a-phishing-attack)  
-Overview of SOC functions, tiers, and analyst responsibilities.
-
-### 🛡️ [2. Cyber Defence Framework](https://github.com/MaheshShukla1/Soc-prep/wiki/Cyber-Defence-Framework)  
-Understand layered defense, NIST, MITRE ATT&CK, and defense-in-depth strategies.
-
-### 🧠 [3. Cyber Threat Intelligence (CTI)](https://github.com/MaheshShukla1/SOC_NOTES_2024/wiki/Cyber-Threat-intelligence)  
-Learn how to collect, analyze, and integrate CTI into SOC workflows.
-
-### 🌐 [4. Network Traffic Analysis](https://github.com/MaheshShukla1/SOC-Security-Notes/wiki/Network-Traffic-Analysis)  
-Understand packet captures (PCAP), logs, and protocols for detection and triage.
-
-### 📧 [5. Phishing Detection & Response](https://github.com/MaheshShukla1/SOC-Analyst-Notes/wiki/Phishing-Attacks:-Understanding,-Detection,-and-Prevention-Strategies)  
-Techniques for identifying and responding to email-based attacks.
-
-### 📌 [6. Alert Management & Triage](https://github.com/MaheshShukla1/SOC-Analyst-Notes/wiki/Alert-Management-&-Triage)
-Learn how to efficiently manage and triage SOC alerts — covering alert types, false vs true positives, validation workflows, and prioritizing incidents by impact and urgency.
-
-### 📌 [7. Log Analysis Basics](https://github.com/MaheshShukla1/SOC-Analyst-Notes/wiki/Log-Analysis-Basics)  
-Understand common log sources, types, how to read logs effectively, and the importance of log management and retention.
+Welcome to the **SOC Analyst Notes Repository** — a **comprehensive, SEO-optimized learning hub** for mastering the **Security Operations Center (SOC)** ecosystem.  
+From **incident response** to **threat hunting**, **SIEM mastery** to **phishing detection**, this guide equips you with the skills and knowledge to excel as a SOC professional.
 
 ---
 
-## 🧩 What’s Inside?
+## 📚 Explore Wiki Topics
 
-✅ **SOC Workflow** – Comprehensive coverage of the alert lifecycle from detection, triage, investigation to remediation.  
-✅ **Threat Actor Analysis** – Understand attacker tactics, techniques, and procedures (TTPs), indicators of compromise (IOCs), and attacker motivations.  
-✅ **SIEM & Log Analysis** – Centralized log aggregation, analysis, and effective log management practices essential for detecting threats and compliance.  
-✅ **Alert Management & Triage** – Learn to identify, validate, prioritize, and escalate security alerts efficiently to reduce false positives and speed up incident response.  
-✅ **Incident Response (IR)** – Step-by-step guidance for triage, containment, eradication, and recovery in real-world SOC environments.  
-✅ **Phishing Detection & Response** – Techniques to detect, analyze, and mitigate phishing attacks leveraging email and network forensics.  
-✅ **Threat Hunting** – Proactive threat detection methods and hypothesis-driven investigation before alerts are triggered.  
-✅ **Automation & Alerting** – Using automated tools and rules to streamline SOC workflows and improve operational efficiency.  
-✅ **People, Process, and Technology** – Best practices for aligning SOC roles, procedures, and tools with organizational security objectives.  
-✅ **Log Analysis Basics** – Introduction to key log sources, log types, how to read and interpret logs effectively, and log retention policies for compliance and investigation.
+1. [Introduction to SOC](https://github.com/MaheshShukla1/Soc-prep/wiki/Introduction-To-SOC#6-case-study-responding-to-a-phishing-attack)  
+2. [Cyber Defence Framework](https://github.com/MaheshShukla1/Soc-prep/wiki/Cyber-Defence-Framework)  
+3. [Cyber Threat Intelligence (CTI)](https://github.com/MaheshShukla1/SOC_NOTES_2024/wiki/Cyber-Threat-intelligence)  
+4. [Network Traffic Analysis](https://github.com/MaheshShukla1/SOC-Security-Notes/wiki/Network-Traffic-Analysis)  
+5. [Phishing Detection & Response](https://github.com/MaheshShukla1/SOC-Analyst-Notes/wiki/Phishing-Attacks:-Understanding,-Detection,-and-Prevention-Strategies)  
+6. [Alert Management & Triage](https://github.com/MaheshShukla1/SOC-Analyst-Notes/wiki/Alert-Management-&-Triage)  
+7. [Log Analysis Basics](https://github.com/MaheshShukla1/SOC-Analyst-Notes/wiki/Log-Analysis-Basics)
+   
+---
+
+## 🧩 Core Learning Modules
+
+✅ **SOC Workflow** – From detection to remediation, learn the SOC alert lifecycle  
+✅ **Threat Actor Analysis** – Understand TTPs, IOCs, and attacker motivations  
+✅ **SIEM & Log Analysis** – Master log aggregation, correlation, and analysis  
+✅ **Alert Management** – Validate, prioritize, and escalate alerts effectively  
+✅ **Incident Response (IR)** – Triage, containment, eradication, recovery steps  
+✅ **Phishing Defense** – Detect, analyze, and mitigate phishing campaigns  
+✅ **Threat Hunting** – Proactively hunt threats before alerts trigger  
+✅ **Automation & Alerting** – Streamline SOC workflows with automation  
+✅ **People, Process, Technology** – Align roles, tools, and procedures  
+✅ **Log Analysis Basics** – Identify, interpret, and retain critical logs  
 
 ---
 
-## 🎯 Why Use This Repository?
+## 🎯 Why This Repository?
 
-- 📚 **Practical + Theory**: Real-world scenarios mixed with conceptual clarity  
-- 🧪 **Ideal for Job Prep**: Useful for SOC Analyst interviews & certifications (CompTIA, CySA+, etc.)  
-- 📈 **Continuously Updated**: Always evolving with fresh notes and resources  
-- 🔗 **Open for Contribution**: Collaborate and grow your GitHub presence
-
----
-
-## 🚀 How to Navigate
-
-1. Browse the module links above 👆  
-2. Open any topic and explore sub-sections via the Wiki  
-3. Star ⭐ this repository to save and support it  
-4. Join the community (below) for updates and discussions
+- 📚 **Job-Ready Knowledge**: Perfect for SOC Analyst interviews & certifications (CompTIA Security+, CySA+, etc.)  
+- 🧪 **Real-World Scenarios**: Case studies, hands-on tools, and practical exercises  
+- 📈 **SEO-Friendly Resources**: Easy to find, easy to learn, easy to share  
+- 🔄 **Continuously Updated**: Fresh modules and industry-relevant updates  
+- 🤝 **Open Collaboration**: PRs welcome for new tools, techniques, and notes  
 
 ---
 
-## 👥 Join the Cybersecurity Community
+## 🚀 How to Use
 
-Join our [Discord Server](https://discord.gg/yJFaZ4UMb2) to connect with cybersecurity professionals, job-seekers, students, and enthusiasts.  
-Ask questions, share insights, and participate in real-world projects.
-
----
-
-## 🤝 Connect with Me
-
-I'm always open to feedback, discussions, and collaboration ideas.  
-If you found this helpful:
-- Drop a ⭐ to support  
-- Share with your peers  
-- Submit a PR if you'd like to contribute!
+1. **Browse Modules** from the Table of Contents  
+2. Click any topic to explore **detailed Wiki pages**  
+3. ⭐ **Star this repo** to keep it saved and support the project  
+4. Join the **community** for updates and discussions  
 
 ---
 
-> 📌 *Stay sharp, stay curious, and secure the digital world — one alert at a time.* 🔐  
+## 👥 Join Our Cybersecurity Community
+
+💬 **[Join Discord](https://discord.gg/yJFaZ4UMb2)** — Network with SOC analysts, students, and cybersecurity pros  
+📢 Share knowledge, ask questions, and collaborate on projects  
+🎯 Stay updated with new SOC tools, frameworks, and case studies  
+
+---
+
+## 📢 Connect & Contribute
+
+I'm always open to **feedback, discussions, and collaborations**.  
+If you find this project helpful:  
+- ⭐ **Star it on GitHub**  
+- 🔗 **Share with peers**  
+- 🛠 **Submit PRs** to contribute  
+
+---
+
+> 🛡️ *Secure the digital world, one alert at a time.* 🔐
