@@ -26,6 +26,9 @@ Techniques for identifying and responding to email-based attacks.
 ### 📌 [6. Alert Management & Triage](https://github.com/MaheshShukla1/SOC-Analyst-Notes/wiki/Alert-Management-&-Triage)
 Learn how to efficiently manage and triage SOC alerts — covering alert types, false vs true positives, validation workflows, and prioritizing incidents by impact and urgency.
 
+### 📌 [7. Log Analysis Basics](https://github.com/MaheshShukla1/SOC-Analyst-Notes/wiki/Log-Analysis-Basics)  
+Understand common log sources, types, how to read logs effectively, and the importance of log management and retention.
+
 ---
 
 ## 🧩 What's Inside?
