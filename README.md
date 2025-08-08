@@ -23,6 +23,9 @@ Understand packet captures (PCAP), logs, and protocols for detection and triage.
 ### 📧 [5. Phishing Detection & Response](https://github.com/MaheshShukla1/SOC-Analyst-Notes/wiki/Phishing-Attacks:-Understanding,-Detection,-and-Prevention-Strategies)  
 Techniques for identifying and responding to email-based attacks.
 
+### 📌 [6. Alert Management & Triage](https://github.com/MaheshShukla1/SOC-Analyst-Notes/wiki/Alert-Management-&-Triage)
+Learn how to efficiently manage and triage SOC alerts — covering alert types, false vs true positives, validation workflows, and prioritizing incidents by impact and urgency.
+
 ---
 
 ## 🧩 What's Inside?
