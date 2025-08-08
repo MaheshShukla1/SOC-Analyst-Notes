@@ -31,15 +31,18 @@ Understand common log sources, types, how to read logs effectively, and the impo
 
 ---
 
-## 🧩 What's Inside?
+## 🧩 What’s Inside?
 
-✅ **SOC Workflow** – End-to-end alert lifecycle from detection to remediation  
-✅ **Threat Actor Understanding** – TTPs, indicators of compromise (IOCs), and motivations  
-✅ **SIEM & Log Analysis** – Centralized monitoring and alerting strategies  
-✅ **Incident Response (IR)** – Step-by-step triage, containment, and recovery plans  
-✅ **Alerting & Automation** – Streamlining operations using rule-based detection  
-✅ **Threat Hunting** – Hypothesis-driven detection before alerts fire  
-✅ **People, Process, Tech** – Aligning SOC operations with business objectives
+✅ **SOC Workflow** – Comprehensive coverage of the alert lifecycle from detection, triage, investigation to remediation.  
+✅ **Threat Actor Analysis** – Understand attacker tactics, techniques, and procedures (TTPs), indicators of compromise (IOCs), and attacker motivations.  
+✅ **SIEM & Log Analysis** – Centralized log aggregation, analysis, and effective log management practices essential for detecting threats and compliance.  
+✅ **Alert Management & Triage** – Learn to identify, validate, prioritize, and escalate security alerts efficiently to reduce false positives and speed up incident response.  
+✅ **Incident Response (IR)** – Step-by-step guidance for triage, containment, eradication, and recovery in real-world SOC environments.  
+✅ **Phishing Detection & Response** – Techniques to detect, analyze, and mitigate phishing attacks leveraging email and network forensics.  
+✅ **Threat Hunting** – Proactive threat detection methods and hypothesis-driven investigation before alerts are triggered.  
+✅ **Automation & Alerting** – Using automated tools and rules to streamline SOC workflows and improve operational efficiency.  
+✅ **People, Process, and Technology** – Best practices for aligning SOC roles, procedures, and tools with organizational security objectives.  
+✅ **Log Analysis Basics** – Introduction to key log sources, log types, how to read and interpret logs effectively, and log retention policies for compliance and investigation.
 
 ---
 
