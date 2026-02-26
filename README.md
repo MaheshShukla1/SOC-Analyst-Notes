@@ -23,7 +23,6 @@ From **incident response** to **threat hunting**, **SIEM mastery** to **phishing
 ---
 
 ## 🧩 Core Learning Modules
-
 ✅ **SOC Workflow** – From detection to remediation, learn the SOC alert lifecycle  
 ✅ **Threat Actor Analysis** – Understand TTPs, IOCs, and attacker motivations  
 ✅ **SIEM & Log Analysis** – Master log aggregation, correlation, and analysis  
@@ -48,7 +47,6 @@ From **incident response** to **threat hunting**, **SIEM mastery** to **phishing
 ---
 
 ## 🚀 How to Use
-
 1. **Browse Modules** from the Table of Contents  
 2. Click any topic to explore **detailed Wiki pages**  
 3. ⭐ **Star this repo** to keep it saved and support the project  
